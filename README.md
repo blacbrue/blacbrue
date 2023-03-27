@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is BlacBrue and I am a dedicated student who loves to program in my free time. As an aspiring tech professional, I am currently focused on building and developing my GitHub profile as a portfolio. By showcasing my skills and projects on this platform, I hope to increase my chances of securing rewarding tech job opportunities in the future.
+My name is BlacBrue and I am a dedicated student who loves to program in my free time. I am currently working towards becoming a skilled developer and am focused on building my experience and portfolio through projects on GitHub. By showcasing my skills and projects on this platform, I hope to increase my chances of securing rewarding tech job opportunities in the future.
 
 
 - 📖 Currently having exams
