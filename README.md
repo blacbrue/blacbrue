@@ -4,7 +4,7 @@ My name is BlacBrue and I am a dedicated student who loves to program in my free
 
 
 - 🏖️ Currently on term break
-- 📫 How to reach me: Discord (BlacBrue#6960)
+- 📫 How to reach me: Discord (Username: blacbrue / [or click here](https://discordapp.com/users/398752205043400724))
 
 ### Languages and Tools
 
